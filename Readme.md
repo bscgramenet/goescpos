@@ -35,7 +35,7 @@ Install the package via the following:
 
 ## Usage ##
 
-The escpos package can be used as the following:
+The escpos package can be used as the following: 增加windows 支持windows 按打印机名字打印
 
 ```go
 package main
